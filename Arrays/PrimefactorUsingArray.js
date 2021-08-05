@@ -19,4 +19,4 @@ for (let factor = 2; factor <= number; factor++) {
     }
   }
 }
-console.log("The factors are "+factorArray);
+console.log("The factors of "+number+" are "+factorArray);
